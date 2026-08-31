@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/rancher-teja/lasso/pkg/client"
-	"github.com/rancher-teja/lasso/pkg/log"
+	"github.com/rancher/lasso/pkg/client"
+	"github.com/rancher/lasso/pkg/log"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 )
 

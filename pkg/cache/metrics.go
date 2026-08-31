@@ -5,7 +5,7 @@ import (
 	"maps"
 	"time"
 
-	"github.com/rancher-teja/lasso/pkg/metrics"
+	"github.com/rancher/lasso/pkg/metrics"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 )
 

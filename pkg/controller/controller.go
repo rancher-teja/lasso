@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rancher-teja/lasso/pkg/log"
-	"github.com/rancher-teja/lasso/pkg/metrics"
+	"github.com/rancher/lasso/pkg/log"
+	"github.com/rancher/lasso/pkg/metrics"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
