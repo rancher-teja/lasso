@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/rancher/lasso/pkg/client"
-	"github.com/rancher/lasso/pkg/log"
+	"github.com/rancher-teja/lasso/pkg/client"
+	"github.com/rancher-teja/lasso/pkg/log"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/watch"

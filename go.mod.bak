@@ -1,4 +1,4 @@
-module github.com/rancher/lasso
+module github.com/rancher-teja/lasso
 
 go 1.27.0
 

@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/rancher/lasso/pkg/log"
+	"github.com/rancher-teja/lasso/pkg/log"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/client-go/rest"
 )
